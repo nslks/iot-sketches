@@ -1,7 +1,7 @@
 #include <WiFi.h>
 #include <HTTPClient.h>
 #include <DHT.h>
-#include "credentials.h"
+#include "../credentials.h"
 
 #define DHTPIN 2
 #define DHTTYPE DHT11
